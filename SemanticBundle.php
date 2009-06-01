@@ -29,19 +29,42 @@ include_once( "$IP/extensions/SemanticGoogleMaps/SemanticGoogleMaps.php" );
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Tasks#Installation
 include_once( "$IP/extensions/SemanticTasks/SemanticTasks.php" );
 
-# 
-# More info: 
+# Admin Links
+# More info: http://www.mediawiki.org/wiki/Extension:Admin_Links#Installation
+include_once("$IP/extensions/AdminLinks/AdminLinks.php");
 
+# Data Transfer
+# More info: http://www.mediawiki.org/wiki/Extension:Data_Transfer#Installation
+include_once('extensions/DataTransfer/includes/DT_Settings.php');
 
-# 
-# More info: 
+# External Data
+# It also requires setting $wgGoogleMapsKey prior to calling it
+# More info: http://www.mediawiki.org/wiki/Extension:External_Data#Installation
+include_once("$IP/extensions/ExternalData/ExternalData.php");
 
+# Header Tabs
+# More info: http://www.mediawiki.org/wiki/Extension:Header_Tabs#Installation 
+include_once("$IP/extensions/HeaderTabs/HeaderTabs.php");
 
-# 
-# More info: 
+# Google Geocoder
+# More info: http://www.mediawiki.org/wiki/Extension:Google_Geocoder#Configuration
+require_once("$IP/extensions/GoogleGeocoder/GoogleGeocoder.php");
+ 
+# Page Object Model (POM)
+# More info: http://www.mediawiki.org/wiki/Extension:Page_Object_Model#Installation
+include_once("$IP/extensions/PageObjectModel/PageObjectModel.php");
 
+# ParserFunctions
+# More info: http://www.mediawiki.org/wiki/Extension:ParserFunctions
+require_once( "$IP/extensions/ParserFunctions/ParserFunctions.php" );
 
-# 
-# More info: 
+# Replace Text
+# More info: http://www.mediawiki.org/wiki/Extension:Replace_Text#Installation
+require_once( "$IP/extensions/ReplaceText/ReplaceText.php" );
+$wgGroupPermissions['sysop']['replacetext'] = true;
 
-
+# Widgets
+# Also need to do some permission setup: http://www.mediawiki.org/wiki/Extension:Widgets#Folder_permissions
+# More info: http://www.mediawiki.org/wiki/Extension:Widgets#Installation
+require_once("$IP/extensions/Widgets/Widgets.php");
+$wgGroupPermissions['sysop']['editwidgets'] = true;
