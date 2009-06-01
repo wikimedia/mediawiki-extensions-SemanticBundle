@@ -1,3 +1,5 @@
+ver = `date +%Y%m%d`
+
 all:
 	rm -rf release
 	mkdir release
@@ -36,7 +38,6 @@ all:
 	# Widgets v0.8.6
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_8_6/ release/Widgets
 	cp SemanticBundle.php release/
-	export ver=`date +%Y%m%d`
 	tar -C release -c ./ | gzip >SemanticBundle-${ver}.tgz
 	(cd release; zip -r ../SemanticBundle-${ver}.zip .)
 	rm -rf release
@@ -78,10 +79,9 @@ dev:
 	# Widgets
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Widgets/ dev/Widgets
 	cp SemanticBundle.php dev/
-	export ver=`date +%Y%m%d`
-	tar -C dev -c ./ | gzip >SemanticBundle-dev-${ver}.tgz
-	(cd dev; zip -r ../SemanticBundle-dev-${ver}.zip .)
+	tar -C dev -c ./ | gzip >SemanticBundle-dev-$(ver).tgz
+	(cd dev; zip -r ../SemanticBundle-dev-$(ver).zip .)
 	rm -rf dev
 
 clean:
-	rm -rf release dev SemanticBundle.tgz SemanticBundle-dev.tgz
+	rm -rf release dev SemanticBundle-*.tgz SemanticBundle-dev-*.tgz SemanticBundle-*.zip SemanticBundle-dev-*.zip
