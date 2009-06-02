@@ -5,26 +5,26 @@ all:
 	mkdir release
 	# Semantic MediaWiki v1.4.2
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_4_2/ release/SemanticMediaWiki
-	# Semantic Result Formants (latest dev)
+	# Semantic Result Formats (latest dev)
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticResultFormats/ release/SemanticResultFormats/
-	# Semantic Forms (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticForms/ release/SemanticForms/
+	# Semantic Forms v1.7.1
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_1_7_1/ release/SemanticForms/
 	# Semantic Compound Queries (latest dev)
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticCompoundQueries/ release/SemanticCompoundQueries/
-	# Semantic DrillDown (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticDrilldown/ release/SemanticDrilldown/
-	# Semantic Google Maps (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticGoogleMaps/ release/SemanticGoogleMaps/
+	# Semantic Drilldown v0.5.7
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_5_7/ release/SemanticDrilldown/
+	# Semantic Google Maps v0.6.2
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticGoogleMaps/REL_0_6_2/ release/SemanticGoogleMaps/
 	# Semantic SignUp (skipped for now - they have only downloadable version)
 	# Semantic Tasks
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticTasks/ release/SemanticTasks/
 	# SemanticQueryFormTool (skipped for now - they have only downloadable version)
-	# Admin Links (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/AdminLinks/ release/AdminLinks/
-	# Data Transfer (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/DataTransfer/ release/DataTransfer/
-	# External Data (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ExternalData/ release/ExternalData/
+	# Admin Links v0.1.1
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_1/ release/AdminLinks/
+	# Data Transfer v0.3
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3/ release/DataTransfer/
+	# External Data v0.6.1
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_0_6_1/ release/ExternalData/
 	# Header Tabs v0.6.5
 	svn export http://mediawiki-header-tabs.googlecode.com/svn/tags/rel_0.6.5/ release/HeaderTabs
 	# Google Geocoder (0.2.1)
@@ -33,8 +33,8 @@ all:
 	svn export http://mediawiki-page-object-model.googlecode.com/svn/tags/REL_0_1_3/ release/POM
 	# ParserFunctions (latest dev)
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ParserFunctions/ release/ParserFunctions/
-	# ReplaceText (latest dev)
-	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ReplaceText/ release/ReplaceText/
+	# ReplaceText v0.6.3
+	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_6_3/ release/ReplaceText/
 	# Widgets v0.8.6
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_8_6/ release/Widgets
 	cp SemanticBundle.php release/
@@ -46,13 +46,13 @@ dev:
 	mkdir dev 
 	# Semantic MediaWiki
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticMediaWiki/ dev/SemanticMediaWiki/
-	# Semantic Result Formants
+	# Semantic Result Formats
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticResultFormats/ dev/SemanticResultFormats/
 	# Semantic Forms
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticForms/ dev/SemanticForms/
 	# Semantic Compound Queries
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticCompoundQueries/ dev/SemanticCompoundQueries/
-	# Semantic DrillDown
+	# Semantic Drilldown
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticDrilldown/ dev/SemanticDrilldown/
 	# Semantic Google Maps
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticGoogleMaps/ dev/SemanticGoogleMaps/
