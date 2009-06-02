@@ -85,7 +85,7 @@ dev:
 
 clean:
 	rm -rf release dev SemanticBundle-*.tgz SemanticBundle-dev-*.tgz SemanticBundle-*.zip SemanticBundle-dev-*.zip
-externals:
+ext:
 	svn propset -F externals ..
-externals-dev:
+ext-dev:
 	svn propset -F externals.dev ..
