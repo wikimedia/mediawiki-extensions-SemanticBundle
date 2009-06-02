@@ -30,7 +30,7 @@ all:
 	# Google Geocoder (0.2.1)
 	svn export http://mediawiki-google-geocoder.googlecode.com/svn/tags/REL_0_2_1/ release/GoogleGeocoder
 	# Page Object Model (0.1.3)
-	svn export http://mediawiki-page-object-model.googlecode.com/svn/tags/REL_0_1_3/ release/POM
+	svn export http://mediawiki-page-object-model.googlecode.com/svn/tags/REL_0_1_3/ release/PageObjectModel
 	# ParserFunctions (latest dev)
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ParserFunctions/ release/ParserFunctions/
 	# ReplaceText v0.6.3
@@ -71,7 +71,7 @@ dev:
 	# Google Geocoder
 	svn export http://mediawiki-google-geocoder.googlecode.com/svn/trunk/ dev/GoogleGeocoder
 	# Page Object Model
-	svn export http://mediawiki-page-object-model.googlecode.com/svn/trunk/ dev/POM
+	svn export http://mediawiki-page-object-model.googlecode.com/svn/trunk/ dev/PageObjectModel
 	# ParserFunctions
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ParserFunctions/ dev/ParserFunctions/
 	# ReplaceText
@@ -85,3 +85,7 @@ dev:
 
 clean:
 	rm -rf release dev SemanticBundle-*.tgz SemanticBundle-dev-*.tgz SemanticBundle-*.zip SemanticBundle-dev-*.zip
+externals:
+	svn propset -F externals ..
+externals-dev:
+	svn propset -F externals.dev ..

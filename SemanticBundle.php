@@ -52,7 +52,7 @@ require_once("$IP/extensions/GoogleGeocoder/GoogleGeocoder.php");
  
 # Page Object Model (POM)
 # More info: http://www.mediawiki.org/wiki/Extension:Page_Object_Model#Installation
-include_once("$IP/extensions/POM/PageObjectModel.php");
+include_once("$IP/extensions/PageObjectModel/PageObjectModel.php");
 
 # ParserFunctions
 # More info: http://www.mediawiki.org/wiki/Extension:ParserFunctions
