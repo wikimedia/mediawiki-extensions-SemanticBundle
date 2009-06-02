@@ -39,7 +39,6 @@ all:
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_6_3/ release/ReplaceText/
 	# Widgets v0.8.6
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_8_6/ release/Widgets
-	cp SemanticBundle.php release/
 	tar -C release -c ./ | gzip >SemanticBundle-${ver}.tgz
 	(cd release; zip -r ../SemanticBundle-${ver}.zip .)
 	rm -rf release
@@ -82,7 +81,6 @@ dev:
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ReplaceText/ dev/ReplaceText/
 	# Widgets
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Widgets/ dev/Widgets
-	cp SemanticBundle.php dev/
 	tar -C dev -c ./ | gzip >SemanticBundle-dev-$(ver).tgz
 	(cd dev; zip -r ../SemanticBundle-dev-$(ver).zip .)
 	rm -rf dev
