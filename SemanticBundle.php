@@ -1,4 +1,9 @@
 <?
+if ( !defined( 'MEDIAWIKI' ) ) {
+    echo "This file is not a valid entry point.";
+    exit( 1 );
+}
+
 # Semantic MediaWiki basic installation.
 # More info: http://semantic-mediawiki.org/wiki/Help:Installation
 include_once("$IP/extensions/SemanticMediaWiki/includes/SMW_Settings.php");
