@@ -3,6 +3,8 @@ ver = `date +%Y%m%d`
 all:
 	rm -rf release
 	mkdir release
+	# Semantic Bundle (latest)
+	svn export http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/ release/semantic-bundle
 	# Semantic MediaWiki v1.4.2
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_4_2/ release/SemanticMediaWiki
 	# Semantic Result Formats (latest dev)
@@ -44,6 +46,8 @@ all:
 dev:
 	rm -rf dev 
 	mkdir dev 
+	# Semantic Bundle (latest)
+	svn export http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/ release/semantic-bundle
 	# Semantic MediaWiki
 	svn export http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticMediaWiki/ dev/SemanticMediaWiki/
 	# Semantic Result Formats
