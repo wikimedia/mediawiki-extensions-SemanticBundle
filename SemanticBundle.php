@@ -6,7 +6,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
-        'name' => 'SemanticBundle',
+        'name' => 'Semantic Bundle',
         'description' => 'Semantic Bundle is a pre-packaged bundle of extensions meant to be used on wikis based around the Semantic MediaWiki extension.',
 	'version' => '0.1',
         'author' => '[http://www.mediawiki.org/wiki/User:Sergey_Chernyshev Sergey Chernyshev] and [http://www.mediawiki.org/wiki/User:Yaron_Koren Yaron Koren]',
