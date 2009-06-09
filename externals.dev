@@ -7,6 +7,7 @@ SemanticDrilldown	http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Se
 SemanticGoogleMaps	http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticGoogleMaps/
 SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticTasks/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/AdminLinks/
+ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/DataTransfer/
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ExternalData/
 HeaderTabs		http://mediawiki-header-tabs.googlecode.com/svn/trunk/
