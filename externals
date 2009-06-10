@@ -4,7 +4,7 @@ SemanticResultFormats	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions
 SemanticForms		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_1_7_1/
 SemanticCompoundQueries	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_2/
 SemanticDrilldown	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_5_7/
-SemanticGoogleMaps	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticGoogleMaps/REL_0_6_2/
+SemanticGoogleMaps	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticGoogleMaps/REL_0_6_3/
 SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticTasks/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_1/
 ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
