@@ -9,7 +9,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 include_once("$IP/extensions/SemanticMediaWiki/includes/SMW_Settings.php");
 enableSemantics($wgServerName);
 
-# Semantic ResultFormats
+# Semantic Result Formats
 # More info: http://semantic-mediawiki.org/wiki/Help:Semantic_Result_Formats#Installation
 include_once("$IP/extensions/SemanticResultFormats/SRF_Settings.php");
 
@@ -66,6 +66,7 @@ include_once("$IP/extensions/AdminLinks/AdminLinks.php");
 # ParserFunctions
 # More info: http://www.mediawiki.org/wiki/Extension:ParserFunctions
 require_once( "$IP/extensions/ParserFunctions/ParserFunctions.php" );
+$wgPFEnableStringFunctions = true;
 
 # Replace Text
 # More info: http://www.mediawiki.org/wiki/Extension:Replace_Text#Installation
