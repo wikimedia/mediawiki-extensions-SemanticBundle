@@ -19,8 +19,8 @@ dev:
 clean:
 	rm -rf release dev SemanticBundle-*.tgz SemanticBundle-dev-*.tgz SemanticBundle-*.zip SemanticBundle-dev-*.zip
 ext:
-	svn propset svn:externals -F externals ..
+	(cd ..; svn propset svn:externals -F semantic-bundle/externals .)
 	(cd ..; svn update)
 ext-dev:
-	svn propset svn:externals -F externals.dev ..
+	(cd ..; svn propset svn:externals -F semantic-bundle/externals.dev .)
 	(cd ..; svn update)
