@@ -9,7 +9,7 @@ SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Seman
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_1/
 ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_2/
-ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_0_7/
+ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_0_7_1/
 HeaderTabs		http://mediawiki-header-tabs.googlecode.com/svn/tags/rel_0.6.5/
 GoogleGeocoder		http://mediawiki-google-geocoder.googlecode.com/svn/tags/REL_0_2_1/
 PageObjectModel		http://mediawiki-page-object-model.googlecode.com/svn/tags/REL_0_1_3/
