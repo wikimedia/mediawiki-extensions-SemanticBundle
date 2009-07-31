@@ -25,10 +25,14 @@ include_once("$IP/extensions/SemanticForms/includes/SF_Settings.php");
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Drilldown#Installation
 include_once("$IP/extensions/SemanticDrilldown/includes/SD_Settings.php");
 
-# Semantic Google Maps 
-# It also requires setting $wgGoogleMapsKey prior to calling it
-# More info: http://www.mediawiki.org/wiki/Extension:Semantic_Google_Maps#Download_and_installation
-#include_once( "$IP/extensions/SemanticGoogleMaps/SemanticGoogleMaps.php" );
+# Maps and Semantic Maps 
+# If you're planning to use Google Maps or Yahoo! Maps, you should also set
+# $egGoogleMapsKey and $egYahooMapsKey.
+# More info:
+# http://www.mediawiki.org/wiki/Extension:Maps#Download_and_installation
+# http://www.mediawiki.org/wiki/Extension:Semantic_Maps#Download_and_installation
+#include_once( "$IP/extensions/Maps/Maps.php" );
+#include_once( "$IP/extensions/SemanticMaps/SemanticMaps.php" );
 
 # Semantic Tasks
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Tasks#Installation
@@ -47,7 +51,6 @@ include_once("$IP/extensions/AdminLinks/AdminLinks.php");
 #include_once("$IP/extensions/DataTransfer/includes/DT_Settings.php");
 
 # External Data
-# It also requires setting $wgGoogleMapsKey prior to calling it
 # More info: http://www.mediawiki.org/wiki/Extension:External_Data#Installation
 #include_once("$IP/extensions/ExternalData/ExternalData.php");
 
@@ -55,10 +58,6 @@ include_once("$IP/extensions/AdminLinks/AdminLinks.php");
 # More info: http://www.mediawiki.org/wiki/Extension:Header_Tabs#Installation 
 #include_once("$IP/extensions/HeaderTabs/HeaderTabs.php");
 
-# Google Geocoder
-# More info: http://www.mediawiki.org/wiki/Extension:Google_Geocoder#Configuration
-#require_once("$IP/extensions/GoogleGeocoder/GoogleGeocoder.php");
- 
 # Page Object Model (POM)
 # More info: http://www.mediawiki.org/wiki/Extension:Page_Object_Model#Installation
 #include_once("$IP/extensions/PageObjectModel/PageObjectModel.php");
