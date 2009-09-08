@@ -1,4 +1,4 @@
-<?
+<?php
 if ( !defined( 'MEDIAWIKI' ) ) {
     echo "This file is not a valid entry point.";
     exit( 1 );
@@ -37,6 +37,10 @@ include_once("$IP/extensions/SemanticDrilldown/includes/SD_Settings.php");
 # Semantic Tasks
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Tasks#Installation
 #include_once( "$IP/extensions/SemanticTasks/SemanticTasks.php" );
+
+# Semantic Internal Objects
+# More info: http://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
+#include_once("$IP/extensions/SemanticInternalObjects/SemanticInternalObjects.php");
 
 # Admin Links
 # More info: http://www.mediawiki.org/wiki/Extension:Admin_Links#Installation
