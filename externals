@@ -11,7 +11,7 @@ AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLink
 ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_4/
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_0_9/
-HeaderTabs		http://mediawiki-header-tabs.googlecode.com/svn/tags/rel_0.6.5/
+HeaderTabs		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_6_6/
 Maps			http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_0_3_3/
 PageObjectModel		http://mediawiki-page-object-model.googlecode.com/svn/tags/REL_0_1_3/
 ParserFunctions		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ParserFunctions/
