@@ -6,7 +6,7 @@ SemanticCompoundQueries	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 SemanticDrilldown	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_6/
 SemanticMaps		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_0_3_4/
 SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticTasks/
-SemanticInternalOjbects	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_1/
+SemanticInternalObjects	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_1/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_2/
 ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_4/
