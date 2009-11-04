@@ -19,7 +19,7 @@ include_once("$IP/extensions/SemanticForms/includes/SF_Settings.php");
 
 # Semantic Compound Queries
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Compound_Queries
-#include_once("$IP/extensions/SemanticCompoundQueries/SCQ_Settings.php");
+#include_once("$IP/extensions/SemanticCompoundQueries/SemanticCompoundQueries.php");
 
 # Semantic Drilldown
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Drilldown#Installation
