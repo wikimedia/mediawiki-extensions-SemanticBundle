@@ -1,10 +1,10 @@
 semantic-bundle		http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/
 SemanticMediaWiki	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_4_3_1/
 SemanticResultFormats	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_4_5/
-SemanticForms		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_1_8_5/
+SemanticForms		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_1_8_5_1/
 SemanticCompoundQueries	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_2/
-SemanticDrilldown	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_6/
-SemanticMaps		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_0_3_4/
+SemanticDrilldown	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_6_2/
+SemanticMaps		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_0_4/
 SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticTasks/
 SemanticInternalObjects	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_1/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_2/
@@ -12,7 +12,7 @@ ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/Array
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_4/
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_0_9_1/
 HeaderTabs		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_6_6/
-Maps			http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_0_3_4/
+Maps			http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_0_4/
 PageObjectModel		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageObjectModel/REL_0_1_3/
 ParserFunctions		http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_15_1/extensions/ParserFunctions/
 ReplaceText		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_7_1/
