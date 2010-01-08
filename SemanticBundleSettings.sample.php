@@ -25,12 +25,13 @@ include_once("$IP/extensions/SemanticForms/includes/SF_Settings.php");
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Drilldown#Installation
 include_once("$IP/extensions/SemanticDrilldown/includes/SD_Settings.php");
 
-# Maps and Semantic Maps 
+# Validator, Maps and Semantic Maps 
 # If you're planning to use Google Maps or Yahoo! Maps, you should also set
 # $egGoogleMapsKey and $egYahooMapsKey.
 # More info:
 # http://www.mediawiki.org/wiki/Extension:Maps#Download_and_installation
 # http://www.mediawiki.org/wiki/Extension:Semantic_Maps#Download_and_installation
+#include_once( "$IP/extensions/Validator/Validator.php" );
 #include_once( "$IP/extensions/Maps/Maps.php" );
 #include_once( "$IP/extensions/SemanticMaps/SemanticMaps.php" );
 
