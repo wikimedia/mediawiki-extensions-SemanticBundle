@@ -1,12 +1,12 @@
 semantic-bundle		http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/
-SemanticMediaWiki	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_4_3_1/
+SemanticMediaWiki	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_5_0/
 SemanticResultFormats	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_4_5/
-SemanticForms		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_1_8_8/
-SemanticCompoundQueries	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_3/
+SemanticForms		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_1_9/
+SemanticCompoundQueries	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_4/
 SemanticDrilldown	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_7/
 SemanticMaps		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_0_5_3/
 SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticTasks/REL_1_2/
-SemanticInternalObjects	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_2/
+SemanticInternalObjects	http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_4/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_2/
 ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_4/
