@@ -53,7 +53,7 @@ include_once("$IP/extensions/AdminLinks/AdminLinks.php");
 
 # Data Transfer
 # More info: http://www.mediawiki.org/wiki/Extension:Data_Transfer#Installation
-#include_once("$IP/extensions/DataTransfer/includes/DT_Settings.php");
+#include_once("$IP/extensions/DataTransfer/DataTransfer.php");
 
 # External Data
 # More info: http://www.mediawiki.org/wiki/Extension:External_Data#Installation
