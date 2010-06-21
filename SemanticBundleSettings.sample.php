@@ -6,7 +6,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 # Semantic MediaWiki basic installation.
 # More info: http://semantic-mediawiki.org/wiki/Help:Installation
-include_once("$IP/extensions/SemanticMediaWiki/includes/SMW_Settings.php");
+include_once("$IP/extensions/SemanticMediaWiki/SemanticMediaWiki.php");
 enableSemantics($wgServerName);
 
 # Semantic Result Formats
