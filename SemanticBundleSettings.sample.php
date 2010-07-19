@@ -47,6 +47,10 @@ include_once("$IP/extensions/SemanticDrilldown/includes/SD_Settings.php");
 # More info: http://www.mediawiki.org/wiki/Extension:Admin_Links#Installation
 include_once("$IP/extensions/AdminLinks/AdminLinks.php");
 
+# Approved Revs
+# More info: http://www.mediawiki.org/wiki/Extension:Approved_Revs#Installation
+#include_once("$IP/extensions/ApprovedRevs/ApprovedRevs.php");
+
 # ArrayExtension
 # More info: http://www.mediawiki.org/wiki/Extension:ArrayExtension#Installation
 #include_once("$IP/extensions/ArrayExtension/ArrayExtension.php");
