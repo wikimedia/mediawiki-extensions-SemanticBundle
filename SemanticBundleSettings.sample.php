@@ -11,11 +11,15 @@ enableSemantics($wgServerName);
 
 # Semantic Result Formats
 # More info: http://semantic-mediawiki.org/wiki/Help:Semantic_Result_Formats#Installation
-include_once("$IP/extensions/SemanticResultFormats/SRF_Settings.php");
+include_once("$IP/extensions/SemanticResultFormats/SemanticResultFormats.php");
 
 # Semantic Forms
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Forms
-include_once("$IP/extensions/SemanticForms/includes/SF_Settings.php");
+include_once("$IP/extensions/SemanticForms/SemanticForms.php");
+
+# Semantic Forms Inputs
+# More info: http://www.mediawiki.org/wiki/Extension:Semantic_Forms_Inputs
+include_once("$IP/extensions/SemanticFormsInputs/SemanticFormsInputs.php");
 
 # Semantic Compound Queries
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Compound_Queries
@@ -23,7 +27,7 @@ include_once("$IP/extensions/SemanticForms/includes/SF_Settings.php");
 
 # Semantic Drilldown
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Drilldown#Installation
-include_once("$IP/extensions/SemanticDrilldown/includes/SD_Settings.php");
+include_once("$IP/extensions/SemanticDrilldown/SemanticDrilldown.php");
 
 # Validator, Maps and Semantic Maps 
 # If you're planning to use Google Maps or Yahoo! Maps, you should also set
