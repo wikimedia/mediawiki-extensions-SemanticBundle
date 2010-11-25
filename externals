@@ -1,7 +1,7 @@
 semantic-bundle         http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/
 SemanticMediaWiki       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_5_3/
 SemanticResultFormats   http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_5_1/
-SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_0_4/
+SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_0_5/
 SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_3_1/
 SemanticCompoundQueries http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_5/
 SemanticDrilldown       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_8/
@@ -9,7 +9,7 @@ SemanticMaps            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 SemanticTasks           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticTasks/REL_1_3/
 SemanticInternalObjects http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_6_2/
 AdminLinks              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_3/
-ApprovedRevs            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ApprovedRevs/REL_0_5_1/
+ApprovedRevs            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ApprovedRevs/REL_0_5_2/
 ArrayExtension          http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
 DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_6/
 ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_1/
