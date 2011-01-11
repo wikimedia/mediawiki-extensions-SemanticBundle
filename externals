@@ -2,7 +2,7 @@ semantic-bundle         http://semantic-mediawiki-bundle.googlecode.com/svn/trun
 SemanticMediaWiki       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_5_4/
 SemanticResultFormats   http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_5_1/
 SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_0_8/
-SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_3_1/
+SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_4/
 SemanticCompoundQueries http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_5/
 SemanticDrilldown       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_8_1/
 SemanticMaps            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_0_7_3/
@@ -18,5 +18,5 @@ Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 PageObjectModel         http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageObjectModel/REL_0_1_3/
 ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/extensions/ParserFunctions/
 ReplaceText             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_8/
-Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_2/
+Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_3/
 Widgets                 http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_9_1/
