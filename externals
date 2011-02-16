@@ -20,3 +20,4 @@ ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_
 ReplaceText             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_9/
 Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_4/
 Widgets                 http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_9_2/
+ConfirmEdit             http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ConfirmEdit/
