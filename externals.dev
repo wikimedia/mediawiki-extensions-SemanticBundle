@@ -18,3 +18,4 @@ ParserFunctions		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Par
 ReplaceText		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ReplaceText/
 Validator		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Validator/
 Widgets			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Widgets/
+ConfirmEdit  http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ConfirmEdit/
