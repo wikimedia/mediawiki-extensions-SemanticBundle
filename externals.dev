@@ -8,7 +8,7 @@ SemanticMaps		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Semant
 SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticTasks/
 SemanticInternalObjects	http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticInternalObjects/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/AdminLinks/
-ArrayExtension		http://smwbp.googlecode.com/svn/trunk/mediawiki/extensions/ArrayExtension/
+ArrayExtension		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ArrayExtension/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/DataTransfer/
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ExternalData/
 HeaderTabs		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HeaderTabs/
