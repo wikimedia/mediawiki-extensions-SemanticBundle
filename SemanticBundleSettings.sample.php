@@ -83,7 +83,6 @@ enableSemantics($wgServerName);
 # Replace Text
 # More info: http://www.mediawiki.org/wiki/Extension:Replace_Text#Installation
 #require_once( "$IP/extensions/ReplaceText/ReplaceText.php" );
-#$wgGroupPermissions['sysop']['replacetext'] = true;
 
 # Widgets
 # Also need to do some permission setup: http://www.mediawiki.org/wiki/Extension:Widgets#Folder_permissions
