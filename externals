@@ -12,7 +12,7 @@ AdminLinks              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 ApprovedRevs            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ApprovedRevs/REL_0_5_5/
 ArrayExtension          http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ArrayExtension/
 DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_6/
-ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_2_2/
+ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_2_3/
 HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_8/
 Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_0_7_5/
 PageObjectModel         http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageObjectModel/REL_0_1_3/
