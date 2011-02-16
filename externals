@@ -13,7 +13,7 @@ ApprovedRevs            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 ArrayExtension          http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ArrayExtension/
 DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_6/
 ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_2_3/
-HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_8/
+HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_8_1/
 Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_0_7_5/
 PageObjectModel         http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageObjectModel/REL_0_1_3/
 ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/extensions/ParserFunctions/
