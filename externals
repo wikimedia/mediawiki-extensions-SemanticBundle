@@ -1,5 +1,5 @@
 semantic-bundle         http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/
-SemanticMediaWiki       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_5_5_2/
+SemanticMediaWiki       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_5_6/
 SemanticResultFormats   http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_5_3/
 SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_0_9/
 SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_4/
@@ -18,6 +18,6 @@ Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 PageObjectModel         http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageObjectModel/REL_0_1_3/
 ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/extensions/ParserFunctions/
 ReplaceText             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_9/
-Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_4/
+Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_5/
 Widgets                 http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_9_2/
 ConfirmEdit             http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ConfirmEdit/
