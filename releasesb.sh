@@ -15,6 +15,9 @@ if [ "$1" == "" ] || [ "$2" == "" ]; then
     exit
 fi
 
+# make sure we got the latest version of SB
+svn up
+
 what="$3"
 
 if [ "$what" == "" ]; then
