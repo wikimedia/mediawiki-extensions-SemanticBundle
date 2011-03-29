@@ -1,8 +1,8 @@
 semantic-bundle         http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/
 SemanticMediaWiki       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_5_6/
 SemanticResultFormats   http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_5_3/
-SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_0_9/
-SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_4/
+SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_1_2/
+SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_4_1/
 SemanticCompoundQueries http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_5/
 SemanticDrilldown       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_8_1/
 SemanticMaps            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_0_7_6_1/
