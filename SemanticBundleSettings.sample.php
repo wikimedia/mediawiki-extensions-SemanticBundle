@@ -31,10 +31,10 @@ enableSemantics($wgServerName);
 
 # Validator, Maps and Semantic Maps 
 # If you're planning to use Google Maps or Yahoo! Maps, you should also set
-# $egGoogleMapsKey and $egYahooMapsKey.
+# $egGoogleMapsKey or $egYahooMapsKey (AFTER the include_once statements).
 # More info:
-# http://www.mediawiki.org/wiki/Extension:Maps#Download_and_installation
-# http://www.mediawiki.org/wiki/Extension:Semantic_Maps#Download_and_installation
+# http://mapping.referata.com/wiki/Maps#Installation
+# http://mapping.referata.com/wiki/Semantic_Maps#Installation
 #include_once( "$IP/extensions/Validator/Validator.php" );
 #include_once( "$IP/extensions/Maps/Maps.php" );
 #include_once( "$IP/extensions/SemanticMaps/SemanticMaps.php" );
