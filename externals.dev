@@ -13,9 +13,9 @@ DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/DataTr
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ExternalData/
 HeaderTabs		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HeaderTabs/
 Maps			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Maps/
-PageObjectModel		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/PageObjectModel/
 ParserFunctions		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ParserFunctions/
 ReplaceText		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ReplaceText/
 Validator		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Validator/
 Widgets			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Widgets/
 ConfirmEdit  http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ConfirmEdit/
+SemanticWatchlist   http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticWatchlist/
