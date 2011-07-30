@@ -9,7 +9,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 # More info: http://semantic-mediawiki.org/wiki/Help:Installation
 include_once( "$IP/extensions/Validator/Validator.php" );
 include_once( "$IP/extensions/SemanticMediaWiki/SemanticMediaWiki.php" );
-enableSemantics($wgServer);
+enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 
 # Semantic Result Formats
 # More info: http://semantic-mediawiki.org/wiki/Help:Semantic_Result_Formats#Installation
