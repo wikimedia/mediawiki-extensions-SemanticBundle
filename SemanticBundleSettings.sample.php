@@ -4,8 +4,10 @@ if ( !defined( 'MEDIAWIKI' ) ) {
     exit( 1 );
 }
 
+
 # Semantic MediaWiki basic installation.
 # More info: http://semantic-mediawiki.org/wiki/Help:Installation
+include_once( "$IP/extensions/Validator/Validator.php" );
 include_once( "$IP/extensions/SemanticMediaWiki/SemanticMediaWiki.php" );
 enableSemantics($wgServerName);
 
@@ -35,7 +37,6 @@ enableSemantics($wgServerName);
 # More info:
 # http://mapping.referata.com/wiki/Maps#Installation
 # http://mapping.referata.com/wiki/Semantic_Maps#Installation
-#include_once( "$IP/extensions/Validator/Validator.php" );
 #include_once( "$IP/extensions/Maps/Maps.php" );
 #include_once( "$IP/extensions/SemanticMaps/SemanticMaps.php" );
 
