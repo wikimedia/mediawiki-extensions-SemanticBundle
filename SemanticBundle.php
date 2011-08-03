@@ -9,7 +9,7 @@ $wgExtensionCredits[defined( 'SEMANTIC_EXTENSION_TYPE' ) ? 'semantic' : 'other']
         'name' => 'Semantic Bundle',
         'description' => 'A pre-packaged bundle of extensions meant to be used on wikis based around the Semantic MediaWiki extension.',
 	'version' => '2011-07-30',
-        'author' => array( ''[http://www.mediawiki.org/wiki/User:Yaron_Koren Yaron Koren]', '[http://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]' ),
+        'author' => array( '[http://www.mediawiki.org/wiki/User:Yaron_Koren Yaron Koren]', '[http://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]' ),
         'url' => 'http://www.mediawiki.org/wiki/Semantic_Bundle'
 );
 
