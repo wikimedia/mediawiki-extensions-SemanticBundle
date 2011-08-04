@@ -17,8 +17,7 @@ HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_1_0/
 ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/extensions/ParserFunctions/
 ReplaceText             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_9_1/
-Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_9/
+Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_10/
 Widgets                 http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_9_2/
 ConfirmEdit             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ConfirmEdit/REL_1_0/
 SemanticWatchlist       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticWatchlist/REL_0_1/
-
