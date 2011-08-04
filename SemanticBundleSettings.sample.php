@@ -72,10 +72,6 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 # More info: http://www.mediawiki.org/wiki/Extension:Header_Tabs#Installation 
 #include_once( "$IP/extensions/HeaderTabs/HeaderTabs.php" );
 
-# Page Object Model (POM)
-# More info: http://www.mediawiki.org/wiki/Extension:Page_Object_Model#Installation
-#include_once( "$IP/extensions/PageObjectModel/PageObjectModel.php" );
-
 # ParserFunctions
 # More info: http://www.mediawiki.org/wiki/Extension:ParserFunctions
 #require_once( "$IP/extensions/ParserFunctions/ParserFunctions.php" );
