@@ -11,8 +11,8 @@ SemanticInternalObjects http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 AdminLinks              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_4/
 ApprovedRevs            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ApprovedRevs/REL_0_5_9/
 ArrayExtension          http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ArrayExtension/
-DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_6/
-ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_3_1/
+DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_8/
+ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_3_2/
 HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_8_3/
 Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_1_0_2/
 ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/extensions/ParserFunctions/
