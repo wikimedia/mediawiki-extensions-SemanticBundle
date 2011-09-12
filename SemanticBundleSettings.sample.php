@@ -31,7 +31,7 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Drilldown#Installation
 #include_once( "$IP/extensions/SemanticDrilldown/SemanticDrilldown.php" );
 
-# Validator, Maps and Semantic Maps 
+# Maps and Semantic Maps 
 # If you're planning to use Google Maps or Yahoo! Maps, you should also set
 # $egGoogleMapsKey or $egYahooMapsKey (AFTER the include_once statements).
 # More info:
