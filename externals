@@ -1,11 +1,11 @@
 semantic-bundle         http://semantic-mediawiki-bundle.googlecode.com/svn/trunk/
 SemanticMediaWiki       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMediaWiki/REL_1_6_1/
-SemanticResultFormats   http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_6_1/
+SemanticResultFormats   http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticResultFormats/REL_1_6_2/
 SemanticForms           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticForms/REL_2_2_1/
 SemanticFormsInputs     http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticFormsInputs/REL_0_4_1/
-SemanticCompoundQueries http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_9/
+SemanticCompoundQueries http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticCompoundQueries/REL_0_2_10/
 SemanticDrilldown       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticDrilldown/REL_0_8_3/
-SemanticMaps            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_1_0_2/
+SemanticMaps            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticMaps/REL_1_0_3/
 SemanticTasks           http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticTasks/REL_1_3/
 SemanticInternalObjects http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_6_6/
 AdminLinks              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_4/
@@ -14,10 +14,10 @@ ArrayExtension          http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensi
 DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_8/
 ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_3_2/
 HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_8_3/
-Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_1_0_2/
+Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_1_0_3/
 ParserFunctions         http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/extensions/ParserFunctions/
 ReplaceText             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_9_1/
-Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_10/
+Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_11/
 Widgets                 http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_9_2/
 ConfirmEdit             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ConfirmEdit/REL_1_0/
 SemanticWatchlist       http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticWatchlist/REL_0_1/
