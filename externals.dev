@@ -13,7 +13,7 @@ DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/DataTr
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ExternalData/
 HeaderTabs		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HeaderTabs/
 Maps			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Maps/
-ParserFunctions		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ParserFunctions/
+PageSchemas		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/PageSchemas/
 ReplaceText		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ReplaceText/
 Validator		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Validator/
 Widgets			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Widgets/
