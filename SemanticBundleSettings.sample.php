@@ -48,6 +48,10 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 # More info: http://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
 #include_once( "$IP/extensions/SemanticInternalObjects/SemanticInternalObjects.php" );
 
+# Semantic Image Input
+# More info: http://www.mediawiki.org/wiki/Extension:Semantic_Image_Input
+#include_once( "$IP/extensions/SemanticImageInput/SemanticImageInput.php" );
+
 # Admin Links
 # More info: http://www.mediawiki.org/wiki/Extension:Admin_Links#Installation
 #include_once( "$IP/extensions/AdminLinks/AdminLinks.php" );
@@ -72,10 +76,9 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 # More info: http://www.mediawiki.org/wiki/Extension:Header_Tabs#Installation 
 #include_once( "$IP/extensions/HeaderTabs/HeaderTabs.php" );
 
-# ParserFunctions
-# More info: http://www.mediawiki.org/wiki/Extension:ParserFunctions
-#require_once( "$IP/extensions/ParserFunctions/ParserFunctions.php" );
-#$wgPFEnableStringFunctions = true;
+# Page Schemas
+# More info: http://www.mediawiki.org/wiki/Extension:Page_Schemas#Installation
+#require_once( "$IP/extensions/PageSchemas/PageSchemas.php" );
 
 # Replace Text
 # More info: http://www.mediawiki.org/wiki/Extension:Replace_Text#Installation
