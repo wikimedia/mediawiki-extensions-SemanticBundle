@@ -18,5 +18,4 @@ PageSchemas		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/PageSch
 ReplaceText		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ReplaceText/
 Validator		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Validator/
 Widgets			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Widgets/
-ConfirmEdit  http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ConfirmEdit/
 SemanticWatchlist   http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticWatchlist/
