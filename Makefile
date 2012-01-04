@@ -4,7 +4,7 @@ all:
 	rm -rf release
 	mkdir release
 	awk '{ system("svn export "$$2" release/"$$1) }' < externals
-	sed -i -r -e "s/'version'\s*=>\s*'(.*)'/'version' => '\1.$(ver)'/" release/semantic-bundle/SemanticBundle.php
+	sed -i -r -e "s/'version'\s*=>\s*'(.*)'/'version' => '\1$(ver)'/" release/semantic-bundle/SemanticBundle.php
 	tar -C release -c ./ | gzip >SemanticBundle-${ver}.tgz
 	7z a SemanticBundle-${ver}.7z release
 	(cd release; zip -r ../SemanticBundle-${ver}.zip .)
@@ -13,7 +13,7 @@ dev:
 	rm -rf dev 
 	mkdir dev
 	awk '{ system("svn export "$$2" dev/"$$1) }' < externals.dev
-	sed -i -r -e "s/'version'\s*=>\s*'(.*)'/'version' => '\1.$(ver)-dev'/" dev/semantic-bundle/SemanticBundle.php
+	sed -i -r -e "s/'version'\s*=>\s*'(.*)'/'version' => '\1$(ver)-dev'/" dev/semantic-bundle/SemanticBundle.php
 	tar -C dev -c ./ | gzip >SemanticBundle-dev-$(ver).tgz
 	7z a SemanticBundle-dev-${ver}.7z dev
 	(cd dev; zip -r ../SemanticBundle-dev-$(ver).zip .)
