@@ -11,12 +11,12 @@ SemanticImageInput      http://svn.wikimedia.org/svnroot/mediawiki/tags/extensio
 SemanticInternalObjects http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/SemanticInternalObjects/REL_0_6_7/
 AdminLinks              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/AdminLinks/REL_0_1_5/
 ApprovedRevs            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ApprovedRevs/REL_0_5_9/
-ArrayExtension          http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ArrayExtension/
+Arrays                  http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Arrays/REL_2_0rc2/
 DataTransfer            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/DataTransfer/REL_0_3_8/
 ExternalData            http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ExternalData/REL_1_3_4/
 HeaderTabs              http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/HeaderTabs/REL_0_9/
 Maps                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Maps/REL_1_0_5/
-PageSchemas                    http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageSchemas/REL_0_3/
+PageSchemas             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/PageSchemas/REL_0_3/
 ReplaceText             http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/ReplaceText/REL_0_9_3/
 Validator               http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Validator/REL_0_4_13/
 Widgets                 http://svn.wikimedia.org/svnroot/mediawiki/tags/extensions/Widgets/REL_0_9_2/

@@ -9,7 +9,7 @@ SemanticTasks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Seman
 SemanticImageInput  http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticImageInput/
 SemanticInternalObjects	http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/SemanticInternalObjects/
 AdminLinks		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/AdminLinks/
-ArrayExtension		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ArrayExtension/
+Arrays			http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/Arrays/
 DataTransfer		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/DataTransfer/
 ExternalData		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/ExternalData/
 HeaderTabs		http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HeaderTabs/
