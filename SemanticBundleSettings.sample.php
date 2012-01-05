@@ -60,9 +60,9 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 # More info: http://www.mediawiki.org/wiki/Extension:Approved_Revs#Installation
 #include_once( "$IP/extensions/ApprovedRevs/ApprovedRevs.php" );
 
-# ArrayExtension
-# More info: http://www.mediawiki.org/wiki/Extension:ArrayExtension#Installation
-#include_once( "$IP/extensions/ArrayExtension/ArrayExtension.php" );
+# Arrays
+# More info: http://www.mediawiki.org/wiki/Extension:Arrays#Installation
+#include_once( "$IP/extensions/Arrays/Arrays.php" );
 
 # Data Transfer
 # More info: http://www.mediawiki.org/wiki/Extension:Data_Transfer#Installation
