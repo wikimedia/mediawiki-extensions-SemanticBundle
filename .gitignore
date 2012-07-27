@@ -1,0 +1,8 @@
+.*
+*~
+*.kate-swp
+.*.swp
+
+!.gitignore
+!.gitreview
+
