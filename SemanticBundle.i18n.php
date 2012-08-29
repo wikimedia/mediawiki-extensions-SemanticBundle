@@ -19,9 +19,37 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
-  * @author Kghbln
-  */
+ * @author Kghbln
+ */
 $messages['qqq'] = array(
-	'semanticbundle-desc'   => '{{desc}}',
+	'semanticbundle-desc' => '{{desc}}',
+);
+
+/** German (Deutsch)
+ * @author Kghbln
+ */
+$messages['de'] = array(
+	'semanticbundle-desc' => 'Ein Paket nützlicher Programmerweiterungen zu Semantic MediaWiki',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'semanticbundle-desc' => 'Paket rozšěrjenjow za Semantic MediaWiki',
+);
+
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'semanticbundle-desc' => 'Een voorverpakte bundel van uitbreidingen gerelateerd aan Semantic MediaWiki',
+);
+
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'semanticbundle-desc' => 'Isang naipakete nang tungkos ng mga dugtong na may kaugnayan sa MediaWiking Semantiko',
 );
 
