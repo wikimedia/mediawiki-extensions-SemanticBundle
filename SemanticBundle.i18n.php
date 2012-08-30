@@ -32,11 +32,39 @@ $messages['de'] = array(
 	'semanticbundle-desc' => 'Ein Paket nützlicher Programmerweiterungen zu Semantic MediaWiki',
 );
 
+/** Spanish (español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'semanticbundle-desc' => 'Un paquete preconfigurado de extensiones relacionadas con Semantic MediaWiki',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
 	'semanticbundle-desc' => 'Paket rozšěrjenjow za Semantic MediaWiki',
+);
+
+/** Italian (italiano)
+ * @author Darth Kule
+ */
+$messages['it'] = array(
+	'semanticbundle-desc' => 'Un pacchetto preconfezionato di estensioni relative a Semantic MediaWiki',
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'semanticbundle-desc' => 'Semantic MediaWiki 関連の拡張機能のパッケージ済みバンドル',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'semanticbundle-desc' => 'Пакет од додатоци поврзани со Семантички МедијаВики',
 );
 
 /** Dutch (Nederlands)
