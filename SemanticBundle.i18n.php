@@ -39,6 +39,13 @@ $messages['es'] = array(
 	'semanticbundle-desc' => 'Un paquete preconfigurado de extensiones relacionadas con Semantic MediaWiki',
 );
 
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'semanticbundle-desc' => 'Un paquete preconfigurado de extensións relacionadas con Semantic MediaWiki',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
