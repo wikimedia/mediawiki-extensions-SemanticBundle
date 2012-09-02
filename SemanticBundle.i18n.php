@@ -67,6 +67,13 @@ $messages['ja'] = array(
 	'semanticbundle-desc' => 'Semantic MediaWiki 関連の拡張機能のパッケージ済みバンドル',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'semanticbundle-desc' => '시멘틱 미디어위키 관련 확장 기능의 사전 패키지 번들',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
