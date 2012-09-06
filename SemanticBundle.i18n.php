@@ -88,6 +88,13 @@ $messages['nl'] = array(
 	'semanticbundle-desc' => 'Een voorverpakte bundel van uitbreidingen gerelateerd aan Semantic MediaWiki',
 );
 
+/** Polish (polski)
+ * @author BeginaFelicysym
+ */
+$messages['pl'] = array(
+	'semanticbundle-desc' => 'Pakiet wstępnie zebranych rozszerzeń powiązanych z Semantyczną MediaWiki',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
