@@ -74,6 +74,13 @@ $messages['ko'] = array(
 	'semanticbundle-desc' => '시멘틱 미디어위키 관련 확장 기능의 사전 패키지 번들',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'semanticbundle-desc' => 'En Pöngel met Zohsazprojramme för st semantesch Medijawikki.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
