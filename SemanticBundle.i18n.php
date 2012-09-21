@@ -29,7 +29,7 @@ $messages['qqq'] = array(
  * @author Kghbln
  */
 $messages['de'] = array(
-	'semanticbundle-desc' => 'Ein Paket nützlicher Programmerweiterungen zu Semantic MediaWiki',
+	'semanticbundle-desc' => 'Eine Zusammenstellung nützlicher Programmerweiterungen zu Semantic MediaWiki',
 );
 
 /** Spanish (español)
