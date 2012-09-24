@@ -102,6 +102,13 @@ $messages['pl'] = array(
 	'semanticbundle-desc' => 'Pakiet wstępnie zebranych rozszerzeń powiązanych z Semantyczną MediaWiki',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Jaideraf
+ */
+$messages['pt-br'] = array(
+	'semanticbundle-desc' => 'Um pacote de extensões relativas ao Semantic MediaWiki',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
