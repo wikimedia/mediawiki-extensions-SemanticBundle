@@ -109,6 +109,13 @@ $messages['pt-br'] = array(
 	'semanticbundle-desc' => 'Um pacote de extensões relativas ao Semantic MediaWiki',
 );
 
+/** Swedish (svenska)
+ * @author Martinwiss
+ */
+$messages['sv'] = array(
+	'semanticbundle-desc' => 'En förpaketerad samling med tillägg till Semantiska MediaWiki',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
