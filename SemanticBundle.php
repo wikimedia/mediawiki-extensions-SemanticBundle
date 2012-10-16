@@ -1,25 +1,23 @@
 <?php
 
 /**
- * Initialization file for the SemanticBundle extension.
+ * SemanticBundle - A pre-packaged bundle of extensions meant to be used on wikis
+ * based around the Semantic MediaWiki extension.
  *
  * Documentation:	 		https://www.mediawiki.org/wiki/SemanticBundle
  * Support					https://www.mediawiki.org/wiki/Talk:SemanticBundle
  * Source code:				https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/extensions/SemanticBundle.git
  *
  * @file
- * @ingroup SemanticBundle
+ * @defgroup SemanticBundle
+ * @ingroup Extensions
+ * @package MediaWiki
  *
- * @licence GNU GPL v2+
+ * @license http://opensource.org/licenses/bsd-license.php The BSD 2-Clause License
  *
+ * @author Sergey Chernyshev
  * @author Yaron Koren
- * @author Jeroen De Dauw < jeroendedauw@gmail.com >
- */
-
-/**
- * This documentation group collects source code files belonging to SemanticBundle.
- *
- * @defgroup SemanticBundle SemanticBundle
+ * @author Jeroen De Dauw
  */
 
 if ( !defined( 'MEDIAWIKI' ) ) {
@@ -30,13 +28,20 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 define( 'SemanticBundle_VERSION', '1.8alpha' );
 
 $wgExtensionCredits['semantic'][] = array(
-	'path' => __FILE__,
-	'name' => 'Semantic Bundle',
-	'description' => 'A pre-packaged bundle of extensions meant to be used on wikis based around the [http://semantic-mediawiki.org Semantic MediaWiki] extension.',
-	'version' => SemanticBundle_VERSION,
-	'author' => array(
-		'[http://www.mediawiki.org/wiki/User:Yaron_Koren Yaron Koren]',
-		'[http://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]'
-	),
-    'url' => 'http://www.mediawiki.org/wiki/Semantic_Bundle'
+	'path'           => __FILE__,
+	'name'           => 'Semantic Bundle',
+	'descriptionmsg' => 'semanticbundle-desc',
+	'version'        => SemanticBundle_VERSION,
+	'author'         => array(
+		'[https://www.mediawiki.org/wiki/User:Yaron_Koren Yaron Koren]',
+		'[https://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]',
+		'...'
+		),
+	'url'            => 'https://www.mediawiki.org/wiki/Semantic_Bundle'
 );
+
+// define server-local path to this file
+$dir = dirname( __FILE__ );
+
+// register message file
+$wgExtensionMessagesFiles['SemanticBundle'] = $dir . '/SemanticBundle.i18n.php';
