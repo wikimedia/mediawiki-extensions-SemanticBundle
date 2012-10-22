@@ -25,6 +25,13 @@ $messages['qqq'] = array(
 	'semanticbundle-desc' => '{{desc}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'semanticbundle-desc' => "Un paquete preconfiguráu d'estensiones rellacionaes con Semantic MediaWiki",
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */
