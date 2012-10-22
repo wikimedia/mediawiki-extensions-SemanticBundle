@@ -122,4 +122,3 @@ $messages['sv'] = array(
 $messages['tl'] = array(
 	'semanticbundle-desc' => 'Isang naipakete nang tungkos ng mga dugtong na may kaugnayan sa MediaWiking Semantiko',
 );
-
