@@ -46,6 +46,13 @@ $messages['es'] = array(
 	'semanticbundle-desc' => 'Un paquete preconfigurado de extensiones relacionadas con Semantic MediaWiki',
 );
 
+/** French (français)
+ * @author Nicolas NALLET
+ */
+$messages['fr'] = array(
+	'semanticbundle-desc' => "Pack d'extensions augmentant les fontionnalités de Semantic MediaWiki",
+);
+
 /** Galician (galego)
  * @author Toliño
  */
