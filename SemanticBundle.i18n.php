@@ -39,6 +39,13 @@ $messages['de'] = array(
 	'semanticbundle-desc' => 'Eine Zusammenstellung nützlicher Programmerweiterungen zu Semantic MediaWiki',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'semanticbundle-desc' => 'Paket rozšyrjenjow za Semantic MediaWiki',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */
