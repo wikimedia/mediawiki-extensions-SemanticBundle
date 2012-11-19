@@ -109,6 +109,12 @@ $messages['mk'] = array(
 	'semanticbundle-desc' => 'Пакет од додатоци поврзани со Семантички МедијаВики',
 );
 
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
+$messages['nb'] = array(
+	'semanticbundle-desc' => 'En forhåndssammensatt pakke av utvidelser relatert til Semantic MediaWiki',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
