@@ -5,7 +5,7 @@ SemanticForms           2.5.1
 SemanticFormsInputs     master
 SemanticCompoundQueries 0.3.4
 SemanticDrilldown       1.2.4
-SemanticMaps            2.0
+SemanticMaps            2.0.1
 SemanticTasks           master
 SemanticImageInput      master
 SemanticInternalObjects 0.7.1
@@ -15,7 +15,7 @@ Arrays                  master
 DataTransfer            0.3.12
 ExternalData            1.4.2
 HeaderTabs              0.9.2
-Maps                    2.0
+Maps                    2.0.1
 PageSchemas             0.3.1
 ReplaceText             0.9.5
 Validator               0.5.1
