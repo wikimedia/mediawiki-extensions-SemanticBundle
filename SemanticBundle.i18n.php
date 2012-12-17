@@ -46,6 +46,13 @@ $messages['dsb'] = array(
 	'semanticbundle-desc' => 'Paket rozšyrjenjow za Semantic MediaWiki',
 );
 
+/** Greek (Ελληνικά)
+ * @author Protnet
+ */
+$messages['el'] = array(
+	'semanticbundle-desc' => 'Προ-συσκευασμένο πακέτο επεκτάσεων σχετικών με το Semantic MediaWiki',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */
