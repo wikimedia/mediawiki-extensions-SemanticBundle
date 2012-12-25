@@ -143,11 +143,25 @@ $messages['pl'] = array(
 	'semanticbundle-desc' => 'Pakiet wstępnie zebranych rozszerzeń powiązanych z Semantyczną MediaWiki',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'semanticbundle-desc' => "Un pachet pre-confessionà d'estension riferìe a Semantich MediaWiki",
+);
+
 /** Brazilian Portuguese (português do Brasil)
  * @author Jaideraf
  */
 $messages['pt-br'] = array(
 	'semanticbundle-desc' => 'Um pacote de extensões relativas ao Semantic MediaWiki',
+);
+
+/** Russian (русский)
+ * @author Pastakhov
+ */
+$messages['ru'] = array(
+	'semanticbundle-desc' => 'Предварительно подготовленный архив Semantic MediaWiki с связанными расширениями',
 );
 
 /** Swedish (svenska)
