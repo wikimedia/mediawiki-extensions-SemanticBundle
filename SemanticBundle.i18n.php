@@ -144,10 +144,11 @@ $messages['pl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'semanticbundle-desc' => "Un pachet pre-confessionà d'estension riferìe a Semantich MediaWiki",
+	'semanticbundle-desc' => "Un pachèt d'estension d'ameliorassion riferìe a Semantich MediaWiki",
 );
 
 /** Brazilian Portuguese (português do Brasil)
