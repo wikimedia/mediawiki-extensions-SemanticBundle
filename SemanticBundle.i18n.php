@@ -185,3 +185,10 @@ $messages['tl'] = array(
 $messages['uk'] = array(
 	'semanticbundle-desc' => 'Пакет розширень Semantic MediaWiki',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'semanticbundle-desc' => '一个打包好的 Semantic MediaWiki 相关扩展的套件',
+);
