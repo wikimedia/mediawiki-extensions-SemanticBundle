@@ -106,7 +106,7 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'semanticbundle-desc' => '시멘틱 미디어위키 관련 확장 기능의 사전 패키지 번들',
+	'semanticbundle-desc' => '시맨틱 미디어위키 관련 확장 기능의 사전 패키지 번들',
 );
 
 /** Colognian (Ripoarisch)
