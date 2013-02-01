@@ -158,6 +158,13 @@ $messages['pt-br'] = array(
 	'semanticbundle-desc' => 'Um pacote de extensões relativas ao Semantic MediaWiki',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'semanticbundle-desc' => "'Nu prise 'mbacchettate de estenziune referite a 'a MediaUicchi Semandeche",
+);
+
 /** Russian (русский)
  * @author Pastakhov
  */
