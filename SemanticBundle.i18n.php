@@ -50,7 +50,7 @@ $messages['dsb'] = array(
  * @author Protnet
  */
 $messages['el'] = array(
-	'semanticbundle-desc' => 'Προ-συσκευασμένο πακέτο επεκτάσεων σχετικών με το Semantic MediaWiki',
+	'semanticbundle-desc' => 'Προ-συσκευασμένο πακέτο επεκτάσεων σχετικών με το Σημασιολογικό MediaWiki',
 );
 
 /** Spanish (español)
