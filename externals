@@ -8,7 +8,8 @@ SemanticDrilldown       1.2.4
 SemanticMaps            2.0.1
 SemanticTasks           master
 SemanticImageInput      master
-SemanticInternalObjects 0.7.1
+SemanticInternalObjects 0.7.2
+SemanticWatchlist       0.2
 AdminLinks              0.1.7
 ApprovedRevs            0.6.5
 Arrays                  master
@@ -20,4 +21,3 @@ PageSchemas             0.3.1
 ReplaceText             0.9.6
 Validator               0.5.1
 Widgets                 REL1_19
-SemanticWatchlist       0.2
