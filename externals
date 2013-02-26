@@ -1,7 +1,7 @@
 SemanticBundle          master
 SemanticMediaWiki       1.8.x
 SemanticResultFormats   1.8.x
-SemanticForms           2.5.1
+SemanticForms           2.5.2
 SemanticFormsInputs     master
 SemanticCompoundQueries 0.3.4
 SemanticDrilldown       1.2.4
@@ -20,4 +20,4 @@ Maps                    2.0.1
 PageSchemas             0.3.1
 ReplaceText             0.9.6
 Validator               0.5.1
-Widgets                 REL1_19
+Widgets                 1.0
