@@ -50,7 +50,7 @@ $messages['dsb'] = array(
  * @author Protnet
  */
 $messages['el'] = array(
-	'semanticbundle-desc' => 'Προ-συσκευασμένο πακέτο επεκτάσεων σχετικών με το Semantic MediaWiki',
+	'semanticbundle-desc' => 'Προ-συσκευασμένο πακέτο επεκτάσεων σχετικών με το Σημασιολογικό MediaWiki',
 );
 
 /** Spanish (español)
@@ -106,7 +106,7 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'semanticbundle-desc' => '시멘틱 미디어위키 관련 확장 기능의 사전 패키지 번들',
+	'semanticbundle-desc' => '시맨틱 미디어위키 관련 확장 기능의 사전 패키지 번들',
 );
 
 /** Colognian (Ripoarisch)
@@ -156,6 +156,13 @@ $messages['pms'] = array(
  */
 $messages['pt-br'] = array(
 	'semanticbundle-desc' => 'Um pacote de extensões relativas ao Semantic MediaWiki',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'semanticbundle-desc' => "'Nu prise 'mbacchettate de estenziune referite a 'a MediaUicchi Semandeche",
 );
 
 /** Russian (русский)
