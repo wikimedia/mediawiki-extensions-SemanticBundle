@@ -20,9 +20,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Kghbln
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'semanticbundle-desc' => '{{desc}}',
+	'semanticbundle-desc' => '{{desc|name=Semantic Bundle|url=http://www.mediawiki.org/wiki/Semantic_Bundle}}',
 );
 
 /** Asturian (asturianu)
