@@ -200,3 +200,10 @@ $messages['uk'] = array(
 $messages['zh-hans'] = array(
 	'semanticbundle-desc' => '一个打包好的 Semantic MediaWiki 相关扩展的套件',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'semanticbundle-desc' => '預先整合的Semantic MediaWiki相關擴展套件',
+);
