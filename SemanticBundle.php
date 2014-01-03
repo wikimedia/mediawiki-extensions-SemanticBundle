@@ -25,7 +25,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
     exit( 1 );
 }
 
-define( 'SemanticBundle_VERSION', '1.8.0.5.2' );
+define( 'SemanticBundle_VERSION', '1.8.0.5.3' );
 
 $wgExtensionCredits['semantic'][] = array(
 	'path'           => __FILE__,
