@@ -61,6 +61,13 @@ $messages['es'] = array(
 	'semanticbundle-desc' => 'Un paquete preconfigurado de extensiones relacionadas con Semantic MediaWiki',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'semanticbundle-desc' => 'بسته از پیش بسته‌بندی شده مدیاویکی معنایی مربوط به فرمت‌ها',
+);
+
 /** Finnish (suomi)
  * @author Nedergard
  */
