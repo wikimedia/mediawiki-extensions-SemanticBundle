@@ -44,4 +44,5 @@ $wgExtensionCredits['semantic'][] = array(
 $dir = dirname( __FILE__ );
 
 // register message file
+$wgMessagesDirs['SemanticBundle'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['SemanticBundle'] = $dir . '/SemanticBundle.i18n.php';
