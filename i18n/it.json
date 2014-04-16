@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Darth Kule"
-        ]
-    },
-    "semanticbundle-desc": "Un pacchetto preconfezionato di estensioni relative a Semantic MediaWiki"
+	"@metadata": {
+		"authors": [
+			"Darth Kule"
+		]
+	},
+	"semanticbundle-desc": "Un pacchetto preconfezionato di estensioni relative a Semantic MediaWiki"
 }

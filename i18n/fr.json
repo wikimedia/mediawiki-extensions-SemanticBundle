@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Nicolas NALLET"
-        ]
-    },
-    "semanticbundle-desc": "Pack d'extensions augmentant les fontionnalités de Semantic MediaWiki"
+	"@metadata": {
+		"authors": [
+			"Nicolas NALLET"
+		]
+	},
+	"semanticbundle-desc": "Pack d'extensions augmentant les fontionnalités de Semantic MediaWiki"
 }
