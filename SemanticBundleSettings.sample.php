@@ -19,7 +19,18 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 # Semantic MediaWiki basic installation.
 # More info: http://semantic-mediawiki.org/wiki/Help:Installation
+
+# First, all of SMW's current dependencies.
+# This includes adding autoload calls for the classes that would normally
+# be autoloaded by Composer.
+$classMap = require_once( "$IP/extensions/SemanticBundle/SB_AutoloadClassmap.php" );
+foreach ( $classMap as $className => $fileName ) {
+        $wgAutoloadClasses[$className] = $fileName;
+}
+include_once( "$IP/extensions/SemanticBundle/param-processor/param-processor/src/ParamProcessor/Processor.php" );
+include_once( "$IP/extensions/SemanticBundle/param-processor/param-processor/DefaultConfig.php" );
 include_once( "$IP/extensions/Validator/Validator.php" );
+
 include_once( "$IP/extensions/SemanticMediaWiki/SemanticMediaWiki.php" );
 enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 
@@ -44,13 +55,12 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 #include_once( "$IP/extensions/SemanticDrilldown/SemanticDrilldown.php" );
 
 # Maps and Semantic Maps 
-# If you're planning to use Google Maps or Yahoo! Maps, you should also set
-# $egGoogleMapsKey or $egYahooMapsKey (AFTER the include_once statements).
-# More info:
-# http://mapping.referata.com/wiki/Maps#Installation
-# http://mapping.referata.com/wiki/Semantic_Maps#Installation
 #include_once( "$IP/extensions/Maps/Maps.php" );
 #include_once( "$IP/extensions/SemanticMaps/SemanticMaps.php" );
+
+# Semantic Extra Special Properties
+# More info: https://www.mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties
+#include_once( "$IP/extensions/SemanticExtraSpecialProperties/SemanticExtraSpecialProperties.php" );
 
 # Semantic Tasks
 # More info: https://www.mediawiki.org/wiki/Extension:Semantic_Tasks#Installation
