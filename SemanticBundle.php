@@ -1,12 +1,12 @@
 <?php
 
 /**
- * SemanticBundle - A pre-packaged bundle of extensions meant to be used on wikis
- * based around the Semantic MediaWiki extension.
+ * Semantic Bundle - A pre-packaged bundle of extensions that includes
+ * Semantic MediaWiki and many of the extensions used in conjunction with it.
  *
- * Documentation:	 		https://www.mediawiki.org/wiki/SemanticBundle
- * Support					https://www.mediawiki.org/wiki/Talk:SemanticBundle
- * Source code:				https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/extensions/SemanticBundle.git
+ * Documentation: https://www.mediawiki.org/wiki/Semantic_Bundle
+ * Support: https://www.mediawiki.org/wiki/Talk:Semantic_Bundle
+ * Source code: http://git.wikimedia.org/tree/mediawiki%2Fextensions%2FSemanticBundle
  *
  * @file
  * @defgroup SemanticBundle
@@ -25,7 +25,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
     exit( 1 );
 }
 
-define( 'SemanticBundle_VERSION', '1.8.0.5.3' );
+define( 'SemanticBundle_VERSION', '1.9.2' );
 
 $wgExtensionCredits['semantic'][] = array(
 	'path'           => __FILE__,
