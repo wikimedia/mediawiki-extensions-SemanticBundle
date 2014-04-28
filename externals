@@ -9,7 +9,7 @@ Geo                     github.com/DataValues                       0.1.2
 ParamProcessor          github.com/JeroenDeDauw                     1.0.2
 Validator               github.com/JeroenDeDauw                     1.0.1
 SemanticExtraSpecialProperties github.com/SemanticMediaWiki         1.2.0
-SemanticResultFormats   github.com/SemanticMediaWiki                1.9.0.1
+SemanticResultFormats   github.com/SemanticMediaWiki                1.9.1
 SemanticForms           git.wikimedia.org/git/mediawiki/extensions  2.7
 SemanticFormsInputs     git.wikimedia.org/git/mediawiki/extensions  REL_0_7
 SemanticCompoundQueries git.wikimedia.org/git/mediawiki/extensions  0.3.4
