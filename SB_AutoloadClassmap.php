@@ -11,7 +11,7 @@
  *
  * This file is copied from the file autoload_classmap.php, which is
  * generated automatically by Composer, with slight changes at the top and
- * some additions at the bottom.
+ * various additions at the bottom.
  */
 
 $vendorDir = dirname(__FILE__);
@@ -513,42 +513,54 @@ return array(
 	'SMW\RefreshJob' => $baseDir . '/extensions/SemanticMediaWiki/includes/jobs/RefreshJob.php',
 	'SMWParamSource' => $baseDir . '/extensions/SemanticMediaWiki/includes/params/SMW_ParamSource.php',
 
-    // Validators
-    'ValueValidators\\ValueValidator' => $vendorDir . '/data-values/interfaces/src/ValueValidators/ValueValidator.php',
-    'ValueValidators\\ValueValidatorObject' => $vendorDir . '/data-values/interfaces/src/ValueValidators/ValueValidatorObject.php',
-    'ValueValidators\\Result' => $vendorDir . '/data-values/interfaces/src/ValueValidators/Result.php',
-    'ValueValidators\\NullValidator' => $vendorDir . '/data-values/validators/src/NullValidator.php',
-    'ValueValidators\\StringValidator' => $vendorDir . '/data-values/validators/src/StringValidator.php',
-    'ValueValidators\\RangeValidator' => $vendorDir . '/data-values/validators/src/RangeValidator.php',
-    'ValueValidators\\Error' => $vendorDir . '/data-values/interfaces/src/ValueValidators/Error.php',
-    'ValueValidators\\TitleValidator' => $vendorDir . '/data-values/validators/src/TitleValidator.php',
-    'ValueValidators\\RangeValidator' => $vendorDir . '/data-values/validators/src/RangeValidator.php',
-    'ValueValidators\\ListValidator' => $vendorDir . '/data-values/validators/src/ListValidator.php',
-    'ValueValidators\\DimensionValidator' => $vendorDir . '/data-values/validators/src/DimensionValidator.php',
+	// ValueValidators
+	'ValueValidators\\ValueValidator' => $vendorDir . '/data-values/interfaces/src/ValueValidators/ValueValidator.php',
+	'ValueValidators\\ValueValidatorObject' => $vendorDir . '/data-values/interfaces/src/ValueValidators/ValueValidatorObject.php',
+	'ValueValidators\\Result' => $vendorDir . '/data-values/interfaces/src/ValueValidators/Result.php',
+	'ValueValidators\\NullValidator' => $vendorDir . '/data-values/validators/src/NullValidator.php',
+	'ValueValidators\\StringValidator' => $vendorDir . '/data-values/validators/src/StringValidator.php',
+	'ValueValidators\\RangeValidator' => $vendorDir . '/data-values/validators/src/RangeValidator.php',
+	'ValueValidators\\Error' => $vendorDir . '/data-values/interfaces/src/ValueValidators/Error.php',
+	'ValueValidators\\TitleValidator' => $vendorDir . '/data-values/validators/src/TitleValidator.php',
+	'ValueValidators\\RangeValidator' => $vendorDir . '/data-values/validators/src/RangeValidator.php',
+	'ValueValidators\\ListValidator' => $vendorDir . '/data-values/validators/src/ListValidator.php',
+	'ValueValidators\\DimensionValidator' => $vendorDir . '/data-values/validators/src/DimensionValidator.php',
 
-    // ValueParsers
-    'ValueParsers\\ValueParser' => $vendorDir . '/data-values/interfaces/src/ValueParsers/ValueParser.php',
-    'ValueParsers\\NullParser' => $vendorDir . '/data-values/common/src/ValueParsers/NullParser.php',
-    'ValueParsers\\IntParser' => $vendorDir . '/data-values/common/src/ValueParsers/IntParser.php',
-    'ValueParsers\\StringValueParser' => $vendorDir . '/data-values/common/src/ValueParsers/StringValueParser.php',
-    'ValueParsers\\ParserOptions' => $vendorDir . '/data-values/interfaces/src/ValueParsers/ParserOptions.php',
-    'ValueParsers\\ParseException' => $vendorDir . '/data-values/interfaces/src/ValueParsers/ParseException.php',
-    'ValueParsers\\FloatParser' => $vendorDir . '/data-values/common/src/ValueParsers/FloatParser.php',
-    'ValueParsers\\BoolParser' => $vendorDir . '/data-values/common/src/ValueParsers/BoolParser.php',
-    'ValueParsers\\TimeParser' => $vendorDir . '/data-values/time/src/ValueParsers/TimeParser.php',
-    'ValueParsers\\CalendarModelParser' => $vendorDir . '/data-values/time/src/ValueParsers/CalendarModelParser.php',
+	// ValueParsers
+	'ValueParsers\\ValueParser' => $vendorDir . '/data-values/interfaces/src/ValueParsers/ValueParser.php',
+	'ValueParsers\\NullParser' => $vendorDir . '/data-values/common/src/ValueParsers/NullParser.php',
+	'ValueParsers\\IntParser' => $vendorDir . '/data-values/common/src/ValueParsers/IntParser.php',
+	'ValueParsers\\StringValueParser' => $vendorDir . '/data-values/common/src/ValueParsers/StringValueParser.php',
+	'ValueParsers\\ParserOptions' => $vendorDir . '/data-values/interfaces/src/ValueParsers/ParserOptions.php',
+	'ValueParsers\\ParseException' => $vendorDir . '/data-values/interfaces/src/ValueParsers/ParseException.php',
+	'ValueParsers\\FloatParser' => $vendorDir . '/data-values/common/src/ValueParsers/FloatParser.php',
+	'ValueParsers\\BoolParser' => $vendorDir . '/data-values/common/src/ValueParsers/BoolParser.php',
+	'ValueParsers\\TimeParser' => $vendorDir . '/data-values/time/src/ValueParsers/TimeParser.php',
+	'ValueParsers\\CalendarModelParser' => $vendorDir . '/data-values/time/src/ValueParsers/CalendarModelParser.php',
+	'ValueParsers\\GeoCoordinateParser' => $vendorDir . '/data-values/geo/src/ValueParsers/GeoCoordinateParser.php',
+	'ValueParsers\\FloatCoordinateParser' => $vendorDir . '/data-values/geo/src/ValueParsers/FloatCoordinateParser.php',
+	'ValueParsers\\GeoCoordinateParserBase' => $vendorDir . '/data-values/geo/src/ValueParsers/GeoCoordinateParserBase.php',
+	'ValueParsers\\DmsCoordinateParser' => $vendorDir . '/data-values/geo/src/ValueParsers/DmsCoordinateParser.php',
+	'ValueParsers\\DmCoordinateParser' => $vendorDir . '/data-values/geo/src/ValueParsers/DmCoordinateParser.php',
+	'ValueParsers\\DdCoordinateParser' => $vendorDir . '/data-values/geo/src/ValueParsers/DdCoordinateParser.php',
 
-    // DataValues
-    'DataValues\\DataValue' => $vendorDir . '/data-values/data-values/src/DataValues/DataValue.php',
-    'DataValues\\DataValueObject' => $vendorDir . '/data-values/data-values/src/DataValues/DataValueObject.php',
-    'DataValues\\UnknownValue' => $vendorDir . '/data-values/data-values/src/DataValues/UnknownValue.php',
-    'DataValues\\NumberValue' => $vendorDir . '/data-values/data-values/src/DataValues/NumberValue.php',
-    'DataValues\\BooleanValue' => $vendorDir . '/data-values/data-values/src/DataValues/BooleanValue.php',
-    'DataValues\\IllegalValueException' => $vendorDir . '/data-values/data-values/src/DataValues/IllegalValueException.php',
-    'DataValues\\StringValue' => $vendorDir . '/data-values/data-values/src/DataValues/StringValue.php',
-    'DataValues\\UnDeserializableValue' => $vendorDir . '/data-values/data-values/src/DataValues/UnDeserializableValue.php',
-    'DataValues\\UnknownValue' => $vendorDir . '/data-values/data-values/src/DataValues/UnknownValue.php',
-    'DataValues\\TimeValues' => $vendorDir . '/data-values/time/src/DataValues/TimeValue.php',
-    'DataValues\\GlobeCoordinateValue' => $vendorDir . '/data-values/geo/src/DataValues/GlobeCoordinateValue.php',
-    'DataValues\\LatLongValue' => $vendorDir . '/data-values/geo/src/DataValues/LatLongValue.php',
+	// DataValues
+	'DataValues\\DataValue' => $vendorDir . '/data-values/data-values/src/DataValues/DataValue.php',
+	'DataValues\\DataValueObject' => $vendorDir . '/data-values/data-values/src/DataValues/DataValueObject.php',
+	'DataValues\\UnknownValue' => $vendorDir . '/data-values/data-values/src/DataValues/UnknownValue.php',
+	'DataValues\\NumberValue' => $vendorDir . '/data-values/data-values/src/DataValues/NumberValue.php',
+	'DataValues\\BooleanValue' => $vendorDir . '/data-values/data-values/src/DataValues/BooleanValue.php',
+	'DataValues\\IllegalValueException' => $vendorDir . '/data-values/data-values/src/DataValues/IllegalValueException.php',
+	'DataValues\\StringValue' => $vendorDir . '/data-values/data-values/src/DataValues/StringValue.php',
+	'DataValues\\UnDeserializableValue' => $vendorDir . '/data-values/data-values/src/DataValues/UnDeserializableValue.php',
+	'DataValues\\UnknownValue' => $vendorDir . '/data-values/data-values/src/DataValues/UnknownValue.php',
+	'DataValues\\TimeValues' => $vendorDir . '/data-values/time/src/DataValues/TimeValue.php',
+	'DataValues\\GlobeCoordinateValue' => $vendorDir . '/data-values/geo/src/DataValues/GlobeCoordinateValue.php',
+	'DataValues\\LatLongValue' => $vendorDir . '/data-values/geo/src/DataValues/LatLongValue.php',
+
+	// ValueFormatters
+	'ValueFormatters\\FormatterOptions' => $vendorDir . '/data-values/interfaces/src/ValueFormatters/FormatterOptions.php',
+	'ValueFormatters\\GeoCoordinateFormatter' => $vendorDir . '/data-values/geo/src/ValueFormatters/GeoCoordinateFormatter.php',
+	'ValueFormatters\\ValueFormatterBase' => $vendorDir . '/data-values/interfaces/src/ValueFormatters/ValueFormatterBase.php',
+	'ValueFormatters\\ValueFormatter' => $vendorDir . '/data-values/interfaces/src/ValueFormatters/ValueFormatter.php',
 );
