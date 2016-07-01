@@ -6,7 +6,7 @@
  *
  * Documentation: https://www.mediawiki.org/wiki/Semantic_Bundle
  * Support: https://www.mediawiki.org/wiki/Talk:Semantic_Bundle
- * Source code: http://git.wikimedia.org/tree/mediawiki%2Fextensions%2FSemanticBundle
+ * Source code: https://phabricator.wikimedia.org/diffusion/ESBU/browse/
  *
  * @file
  * @defgroup SemanticBundle
