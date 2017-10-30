@@ -40,9 +40,5 @@ $wgExtensionCredits['semantic'][] = array(
 	'url'            => 'https://www.mediawiki.org/wiki/Semantic_Bundle'
 );
 
-// define server-local path to this file
-$dir = dirname( __FILE__ );
-
 // register message file
 $wgMessagesDirs['SemanticBundle'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['SemanticBundle'] = $dir . '/SemanticBundle.i18n.php';
