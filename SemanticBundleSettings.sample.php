@@ -107,7 +107,7 @@ enableSemantics( parse_url( $wgServer, PHP_URL_HOST ) );
 #require_once( "$IP/extensions/ReplaceText/ReplaceText.php" );
 
 # Widgets
-# Also need to do some permission setup: http://www.mediawiki.org/wiki/Extension:Widgets#Folder_permissions
+# Also need to do some permission setup: https://www.mediawiki.org/wiki/Extension:Widgets#Folder_permissions
 # More info: https://www.mediawiki.org/wiki/Extension:Widgets#Installation
 #require_once( "$IP/extensions/Widgets/Widgets.php" );
 #$wgGroupPermissions['sysop']['editwidgets'] = true;
