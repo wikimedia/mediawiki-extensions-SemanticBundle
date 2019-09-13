@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Nicolas NALLET",
-			"Wladek92"
+			"Wladek92",
+			"Thibaut120094"
 		]
 	},
-	"semanticbundle-desc": "Un ensemble pré-empaqueté d'extensions concernant Sémantic MédiaWiki"
+	"semanticbundle-desc": "Un ensemble pré-empaqueté d'extensions concernant Sémantic MediaWiki"
 }
