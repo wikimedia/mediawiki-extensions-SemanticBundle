@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hudafu",
 			"Liuxinyu970226",
-			"Yfdyh000",
-			"Hudafu"
+			"Yfdyh000"
 		]
 	},
 	"semanticbundle-desc": "预打包的Semantic MediaWiki相关扩展程序包"

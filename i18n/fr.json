@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Nicolas NALLET",
-			"Wladek92",
 			"Thibaut120094",
-			"Verdy p"
+			"Verdy p",
+			"Wladek92"
 		]
 	},
 	"semanticbundle-desc": "Un ensemble pré-empaqueté d’extensions relatives à MediaWiki Sémantique"
