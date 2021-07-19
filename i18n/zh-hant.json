@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345"
+			"Justincheng12345",
+			"Winston Sung"
 		]
 	},
-	"semanticbundle-desc": "預先整合的Semantic MediaWiki相關擴展套件"
+	"semanticbundle-desc": "預先整合的Semantic MediaWiki相關擴充功能套件"
 }
